@@ -1,35 +1,6 @@
-cyber-security-attack-analysis/
-│
-├── data/
-│   ├── raw/
-│   │   └── cyber_attacks.csv
-│   │
-│   └── processed/
-│       └── cleaned_attacks.csv
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda_analysis.ipynb
-│   ├── 03_anomaly_detection.ipynb
-│
-├── sql/
-│   ├── database_schema.sql
-│   ├── attack_frequency_queries.sql
-│   ├── ip_analysis_queries.sql
-│   └── severity_analysis.sql
-│
-├── dashboard/
-│   ├── streamlit_app.py
-│   └── dashboard_assets/
-│
-├── visuals/
-│   ├── attack_frequency.png
-│   ├── threat_heatmap.png
-│   └── risk_dashboard.png
-│
-├── reports/
-│   └── business_insights.md
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+pandas
+numpy
+matplotlib
+jupyter
+os
+sqlite3
