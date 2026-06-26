@@ -51,25 +51,25 @@ Cyber Security Attack Analysis/
 
 ### 1. Cyber Security Overview
 
-![Overview Dashboard](Dashboard/visuals/overview_dashboard.png)
+![Overview Dashboard](Dashboard/Visuals/overview_dashboard.png)
 
 ---
 
 ### 2. Attack Source Dashboard
 
-![Attack Source Dashboard](Dashboard/visuals/attack_source_dashboard.png)
+![Attack Source Dashboard](Dashboard/Visuals/attack_source_dashboard.png)
 
 ---
 
 ### 3. Threat Monitoring Dashboard
 
-![Threat Monitoring Dashboard](Dashboard/visuals/threat_monitoring_dashboard.png)
+![Threat Monitoring Dashboard](Dashboard/Visuals/threat_monitoring_dashboard.png)
 
 ---
 
 ### 4. Risk Severity Dashboard
 
-![Risk Severity Dashboard](Dashboard/visuals/risk_severity_dashboard.png)
+![Risk Severity Dashboard](Dashboard/Visuals/risk_severity_dashboard.png)
 
 ---
 
